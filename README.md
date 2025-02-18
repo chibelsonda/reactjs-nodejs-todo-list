@@ -1,2 +1,4 @@
-# reactjs-nodejs-todo-list
-Todo list
+# Local config
+- Please read the readme in ui and api folders to run the applications.
+
+ 
